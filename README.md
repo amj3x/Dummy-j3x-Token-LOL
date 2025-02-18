@@ -5,7 +5,7 @@ J3X Token is a dummy ERC-20 token designed for testing and experimentation. It d
 
 ```bash
 git clone https://github.com/J3X-Contract/Dummy-j3x-Token-LOL.git
-cd J3X-Token-LOL
+cd Dummy-j3x-Token-LOL
 ```
 
 ## Test
